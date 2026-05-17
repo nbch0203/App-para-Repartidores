@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+/build/
+**/build/
+
+# IDE / IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+
+# Local configuration
+local.properties
+gradle.properties.local
+
+# Android
+.externalNativeBuild/
+.cxx/
+
+# Signing / sensitive
+google-services.json
+*.jks
+*.keystore
+*.p12
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and temp
+*.log
+*.swp
+*.swo
+
+# Java
+*.class
+*.jar
