@@ -1,38 +1,15 @@
-# Gradle
-.gradle/
-/build/
-**/build/
-
-# IDE / IntelliJ
-.idea/
 *.iml
-*.iws
-*.ipr
-.vscode/
-
-# Local configuration
-local.properties
-gradle.properties.local
-
-# Android
-.externalNativeBuild/
-.cxx/
-
-# Signing / sensitive
-google-services.json
-*.jks
-*.keystore
-*.p12
-
-# OS
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
 .DS_Store
-Thumbs.db
-
-# Logs and temp
-*.log
-*.swp
-*.swo
-
-# Java
-*.class
-*.jar
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties

@@ -1,15 +1,1 @@
-# Module build
-/build/
-/captures/
-.externalNativeBuild/
-.cxx/
-
-# Local configuration
-local.properties
-google-services.json
-*.jks
-*.keystore
-
-# IDE
-*.iml
-.idea/
+/build
